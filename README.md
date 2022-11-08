@@ -1,4 +1,4 @@
-# S5-L5-Progetto-settimanale - Memory
+# Memory - Game
 
 <h2 align="center">Tecnologie Utilizzate</h2>
 <p align="center">
